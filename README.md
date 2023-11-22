@@ -35,7 +35,7 @@ My Library Dashboard is a web application built using React.js, Redux, and React
 
 
 ###images
-![mainpage](![image](https://github.com/Suryaprakash-G26/Library-Dashboard/assets/141228691/e36f08cb-f042-44e4-ae84-bdeb26458ec8))
+![image](https://github.com/Suryaprakash-G26/Library-Dashboard/assets/141228691/e36f08cb-f042-44e4-ae84-bdeb26458ec8)
 
 
 ### deployed Link 
