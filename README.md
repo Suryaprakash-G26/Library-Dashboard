@@ -41,3 +41,12 @@ My Library Dashboard is a web application built using React.js, Redux, and React
 ### deployed Link 
 [Click to open](https://main--sunny-frangollo-80b42a.netlify.app)
 
+## Contact
+
+Feel free to reach out if you have any questions or suggestions:
+
+- [GitHub](https://github.com/Suryaprakash-G26)
+- [LinkedIn](https://www.linkedin.com/in/surya-prakash-6b2914191/)
+
+Happy coding! 🚀
+
